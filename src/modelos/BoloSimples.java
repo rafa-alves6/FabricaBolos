@@ -1,6 +1,6 @@
 public class BoloSimples extends Bolo{
     // ATRIBUTOS
-    private boolean semLactose;
+    private boolean semLactose = true;
 
     // CONSTRUTORES
     public BoloSimples(int codigo, double custo, IFormato formato) {
