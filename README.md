@@ -68,18 +68,3 @@ public class Main {
     }
 }
 ```
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja melhorar o projeto, siga as etapas abaixo:
-
-1. Faça o fork deste repositório.
-2. Crie uma nova branch (`git checkout -b minha-feature`).
-3. Faça as alterações necessárias.
-4. Commit suas mudanças (`git commit -am 'Adiciona minha feature'`).
-5. Faça o push para a branch (`git push origin minha-feature`).
-6. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
